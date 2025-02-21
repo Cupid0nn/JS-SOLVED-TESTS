@@ -15,4 +15,4 @@ function average(arr) {
     return sum / arr.length;
   }
 
-  console.log(average([8, 6, 4]));
+  console.log(average([8, 6, 8]));
