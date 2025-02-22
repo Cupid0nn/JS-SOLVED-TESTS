@@ -8,11 +8,11 @@
 // dividir la suma entre la longitud del array o lo que es lo mismo divir la suma por la cantidad de numeros en el array
 
 function average(arr) {
-    let sum = 0;
-    for (let i = 0; i < arr.length; i++) {
-      sum += arr[i];
-    }
-    return sum / arr.length;
+  let sum = 0;
+  for (let i = 0; i < arr.length; i++) {
+    sum += arr[i];
   }
+  return sum / arr.length;
+}
 
-  console.log(average([8, 6, 8]));
+console.log(average([8, 6, 8, 7]));
