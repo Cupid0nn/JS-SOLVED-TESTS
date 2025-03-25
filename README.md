@@ -9,6 +9,13 @@ _js-solved-tests_ es un repositorio dedicado a la resolución de problemas de Ja
 
 Para ejecutar los ejercicios y soluciones localmente, sigue estos pasos:
 
+## Metas 
+>[!IMPORTANT]
+- 10 retos: ✅
+- 20 retos: ✅
+- 30 retos: ✅
+- 40 retos: ✅
+- 50 retos: ✅
 
 ### Clonar el repositorio
 
