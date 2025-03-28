@@ -133,3 +133,11 @@ function sum(...args) {
         return total + item; // total es 0
     }, 0);
 }
+
+// de esta forma puedes dividir un problema segun lo que se requiere, ejemplo:
+// se requiere buscar algo? puedes usar find o findIndex
+// se requiere recorrer algo? puedes usar forEach, map, filter, reduce, etc
+// se requiere crear algo? puedes usar push, pop, shift, unshift
+// se requiere modificar algo? puedes usar splice
+// se requiere unir algo? puedes usar join
+// etc
