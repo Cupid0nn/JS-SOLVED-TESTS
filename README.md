@@ -4,6 +4,7 @@
 
 >[!IMPORTANT]
 _js-solved-tests_ es un repositorio dedicado a la resolución de problemas de JavaScript. Su propósito es mejorar mis habilidades en programación y servir como un recurso para otros desarrolladores interesados en aprender y practicar algoritmos en JS.
+>js-solved-tests is a repository dedicated to solving JavaScript problems. Its purpose is to improve my programming skills and serve as a resource for other developers interested in learning and practicing algorithms in JS.
 
 ## Instalación
 
